@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0042.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1732600602",
+    "formatted": "Nov 26, 2024, 5:56:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732597693",
+    "formatted": "Nov 26, 2024, 5:08:13 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3299889,
+    "longitude": 70.7937472,
+    "altitude": 125.7646747752512,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3299889,
+    "longitude": 70.7937472,
+    "altitude": 125.7646747752512,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM4-HP6PlMFN6Fs7UBiHlGct-zy-dLnCCK-REFY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

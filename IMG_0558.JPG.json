@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0558.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733568685",
+    "formatted": "Dec 7, 2024, 10:51:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733505181",
+    "formatted": "Dec 6, 2024, 5:13:01 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7480917,
+    "longitude": 72.1006194,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7480917,
+    "longitude": 72.1006194,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNFaykg1AvKl8VLzEIvaWBnV3YgEf8WFUb3r6Dq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

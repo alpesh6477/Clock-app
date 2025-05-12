@@ -1,0 +1,42 @@
+{
+  "title": "IMG_20240810_100036_278.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1723264448",
+    "formatted": "Aug 10, 2024, 4:34:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1723263231",
+    "formatted": "Aug 10, 2024, 4:13:51 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3300028,
+    "longitude": 70.79556939999999,
+    "altitude": 146.22275939010785,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3300028,
+    "longitude": 70.79556939999999,
+    "altitude": 146.22275939010785,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipM8rmes0F67-ltRidTTgWrVBAjhwnZZeWPHAce9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "org.telegram.messenger.web"
+  }
+}

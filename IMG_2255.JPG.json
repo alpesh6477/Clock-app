@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2255.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736953172",
+    "formatted": "Jan 15, 2025, 2:59:32 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736951739",
+    "formatted": "Jan 15, 2025, 2:35:39 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456056,
+    "longitude": 72.0978556,
+    "altitude": 36.440608638743456,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456056,
+    "longitude": 72.0978556,
+    "altitude": 36.440608638743456,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOrjjxySZ_3Bj6b3CTSSNroPqLdcB808UV6lwFz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

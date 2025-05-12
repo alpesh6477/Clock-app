@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0743.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1734172429",
+    "formatted": "Dec 14, 2024, 10:33:49 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734170238",
+    "formatted": "Dec 14, 2024, 9:57:18 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.330077799999998,
+    "longitude": 70.7953417,
+    "altitude": 120.39330655957161,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.330077799999998,
+    "longitude": 70.7953417,
+    "altitude": 120.39330655957161,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipO3iM1TQre0Kl9DZbIJc0qKT-bBj6A5U5ZfC4uz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

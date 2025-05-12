@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1849.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1735977005",
+    "formatted": "Jan 4, 2025, 7:50:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735968624",
+    "formatted": "Jan 4, 2025, 5:30:24 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3300944,
+    "longitude": 70.7954472,
+    "altitude": 128.9820823244552,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3300944,
+    "longitude": 70.7954472,
+    "altitude": 128.9820823244552,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNdsLeztx0mitt54HQfqkUNIcfMxVGPWslaxKGC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

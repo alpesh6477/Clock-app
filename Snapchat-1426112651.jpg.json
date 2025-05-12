@@ -1,0 +1,44 @@
+{
+  "title": "Snapchat-1426112651.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1720426994",
+    "formatted": "Jul 8, 2024, 8:23:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1720426975",
+    "formatted": "Jul 8, 2024, 8:22:55 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }, {
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPk0AUfWVzSdfas3-K2U53feRcgGe2hmf373Iap",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.snapchat.android"
+  }
+}

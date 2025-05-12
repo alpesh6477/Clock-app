@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2032.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736838722",
+    "formatted": "Jan 14, 2025, 7:12:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736824115",
+    "formatted": "Jan 14, 2025, 3:08:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7461083,
+    "longitude": 72.0976333,
+    "altitude": 36.090877192982454,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7461083,
+    "longitude": 72.0976333,
+    "altitude": 36.090877192982454,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPDWxz27H8zSYf0y9awh5_4X8xEIhl1iylVEnbs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2244.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736953174",
+    "formatted": "Jan 15, 2025, 2:59:34 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736944336",
+    "formatted": "Jan 15, 2025, 12:32:16 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7457028,
+    "longitude": 72.0977472,
+    "altitude": 34.07901042678583,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7457028,
+    "longitude": 72.0977472,
+    "altitude": 34.07901042678583,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP63Bb4fQMMs-KJ807L9yIH93Yr1RKF75cxuaRM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

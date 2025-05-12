@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0862.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734701239",
+    "formatted": "Dec 20, 2024, 1:27:19 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734700619",
+    "formatted": "Dec 20, 2024, 1:16:59 PM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3432028,
+    "longitude": 70.7762611,
+    "altitude": 108.8975487115022,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3432028,
+    "longitude": 70.7762611,
+    "altitude": 108.8975487115022,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOO15kx47BbcsXoUwNCuYlJADV7eD9T0kE5N1wD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20241004_100306.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1728027806",
+    "formatted": "Oct 4, 2024, 7:43:26 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728016388",
+    "formatted": "Oct 4, 2024, 4:33:08 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNinevL7qhxhSlk-4F6Wm-C0bOEseJbOQVJgz1G",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Audiobooks"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

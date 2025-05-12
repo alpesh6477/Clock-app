@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0831.PNG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1734660161",
+    "formatted": "Dec 20, 2024, 2:02:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734659890",
+    "formatted": "Dec 20, 2024, 1:58:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOjdDDHr4Xw6DK8aPhvk9Pvo05hGbV-wy1WxDaB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

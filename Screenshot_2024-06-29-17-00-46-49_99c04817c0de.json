@@ -1,0 +1,39 @@
+{
+  "title": "Screenshot_2024-06-29-17-00-46-49_99c04817c0de5652397fc8b56c3b3817.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1719661209",
+    "formatted": "Jun 29, 2024, 11:40:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1719660646",
+    "formatted": "Jun 29, 2024, 11:30:46 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOjNHG1_ul96O87-2n7cTfxLho0l82wMf93OsMB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

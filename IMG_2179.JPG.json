@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2179.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736952733",
+    "formatted": "Jan 15, 2025, 2:52:13 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942461",
+    "formatted": "Jan 15, 2025, 12:01:01 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782083,
+    "altitude": 28.034246765121498,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782083,
+    "altitude": 28.034246765121498,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Bhai "
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOwVNRAfUCzE90ewoWS4d8FWqyqD9nspn_u2BPI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

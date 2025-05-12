@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0695.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733931314",
+    "formatted": "Dec 11, 2024, 3:35:14 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733928248",
+    "formatted": "Dec 11, 2024, 2:44:08 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.745694399999998,
+    "longitude": 72.0975806,
+    "altitude": 30.658137915022056,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.745694399999998,
+    "longitude": 72.0975806,
+    "altitude": 30.658137915022056,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }, {
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPwQaLFMuXMvdaocHWh8YZFn1a1N_kFvZayH1SE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

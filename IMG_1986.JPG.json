@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1986.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742473",
+    "formatted": "Jan 13, 2025, 4:27:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683355",
+    "formatted": "Jan 12, 2025, 12:02:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456972,
+    "longitude": 72.0976778,
+    "altitude": 34.838406679422505,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456972,
+    "longitude": 72.0976778,
+    "altitude": 34.838406679422505,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNmo9MLAwaaGqRsO4yF7TjY6QhhlDoHU1S8y7Hp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

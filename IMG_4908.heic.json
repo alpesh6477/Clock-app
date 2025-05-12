@@ -1,0 +1,42 @@
+{
+  "title": "IMG_4908.heic",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1724569358",
+    "formatted": "Aug 25, 2024, 7:02:38 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724566937",
+    "formatted": "Aug 25, 2024, 6:22:17 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOf10-hvlatszkwZGadLNc65P51IgRUvNH-JNfv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.coloros.gallery3d"
+  }
+}

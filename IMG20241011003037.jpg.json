@@ -1,0 +1,42 @@
+{
+  "title": "IMG20241011003037.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1728587338",
+    "formatted": "Oct 10, 2024, 7:08:58 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728586837",
+    "formatted": "Oct 10, 2024, 7:00:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7404442,
+    "longitude": 72.1606827,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7404442,
+    "longitude": 72.1606827,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMfl83lj5UtAz1hFy3docovpxEddaae8BuJFmXY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

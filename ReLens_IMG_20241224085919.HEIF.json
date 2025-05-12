@@ -1,0 +1,36 @@
+{
+  "title": "ReLens_IMG_20241224085919.HEIF",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1735017789",
+    "formatted": "Dec 24, 2024, 5:23:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735010957",
+    "formatted": "Dec 24, 2024, 3:29:17 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.329991699999997,
+    "longitude": 70.7955333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.329991699999997,
+    "longitude": 70.7955333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPdZFr8boDhFkplggIdcyh6Qhb4zgicHmpPoLX0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

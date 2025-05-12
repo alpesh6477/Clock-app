@@ -1,0 +1,42 @@
+{
+  "title": "IMG20240830110907.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1724996373",
+    "formatted": "Aug 30, 2024, 5:39:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724996347",
+    "formatted": "Aug 30, 2024, 5:39:07 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPimaUM9DOgZus55ltS-1NcIvqMJLEg5i-tXFNj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

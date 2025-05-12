@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0785.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734334512",
+    "formatted": "Dec 16, 2024, 7:35:12 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734334164",
+    "formatted": "Dec 16, 2024, 7:29:24 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.330036099999997,
+    "longitude": 70.7954278,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.330036099999997,
+    "longitude": 70.7954278,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPg05HevAnW9R4qtEQV5yMKzMMpyteHLWaPM5dM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

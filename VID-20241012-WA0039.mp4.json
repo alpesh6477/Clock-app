@@ -1,0 +1,39 @@
+{
+  "title": "VID-20241012-WA0039.mp4",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1728734948",
+    "formatted": "Oct 12, 2024, 12:09:08 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728734921",
+    "formatted": "Oct 12, 2024, 12:08:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNhuJZN-zp9gF7Wqbmh-8NYVrNlMOxeqjGpto2G",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Video"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.whatsapp"
+  }
+}

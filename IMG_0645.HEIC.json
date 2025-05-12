@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0645.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733892628",
+    "formatted": "Dec 11, 2024, 4:50:28 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733756950",
+    "formatted": "Dec 9, 2024, 3:09:10 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456194,
+    "longitude": 72.0976556,
+    "altitude": 35.97072982861545,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456194,
+    "longitude": 72.0976556,
+    "altitude": 35.97072982861545,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Mummy"
+  }, {
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMKqRftA0kYtK8QBo4OHOqLpmlEbhDi3ng0JuPP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2153.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736947184",
+    "formatted": "Jan 15, 2025, 1:19:44 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942207",
+    "formatted": "Jan 15, 2025, 11:56:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7464472,
+    "longitude": 72.0782,
+    "altitude": 26.34545517099016,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7464472,
+    "longitude": 72.0782,
+    "altitude": 26.34545517099016,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNkuZ10csxN3TAGcAvCV4cVXykC8_03I0Qv2XLO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

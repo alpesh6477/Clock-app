@@ -1,0 +1,44 @@
+{
+  "title": "IMG20241111114056_BURST000_COVER.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1731306234",
+    "formatted": "Nov 11, 2024, 6:23:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1731305456",
+    "formatted": "Nov 11, 2024, 6:10:56 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.6393681,
+    "longitude": 72.2354507,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.6393681,
+    "longitude": 72.2354507,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }, {
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNlgnHkgLSp34UGCPbFKZ-A_4NkmyQp8Ai688uV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1940.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736656353",
+    "formatted": "Jan 12, 2025, 4:32:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736656321",
+    "formatted": "Jan 12, 2025, 4:32:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746,
+    "longitude": 72.09859999999999,
+    "altitude": 38.4,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746,
+    "longitude": 72.09859999999999,
+    "altitude": 38.4,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNB7_5Oy09F3MespISwdV2sJPDGs3RUhiaaXsD6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

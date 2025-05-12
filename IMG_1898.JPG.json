@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1898.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736493438",
+    "formatted": "Jan 10, 2025, 7:17:18 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736439273",
+    "formatted": "Jan 9, 2025, 4:14:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703139,
+    "altitude": 33.86584056175134,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703139,
+    "altitude": 33.86584056175134,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPklRVGZ834qUpJhmT_A7WfTJsIFRQo-QlkAi76",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "IMG_2166.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736953198",
+    "formatted": "Jan 15, 2025, 2:59:58 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942350",
+    "formatted": "Jan 15, 2025, 11:59:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7464472,
+    "longitude": 72.0782083,
+    "altitude": 27.70622508432996,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7464472,
+    "longitude": 72.0782083,
+    "altitude": 27.70622508432996,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }, {
+    "name": "Bhai "
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMoCJ3E8wKxM6voEmhQwcyydesrMq75s8nUAIMj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

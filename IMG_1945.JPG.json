@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1945.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736676793",
+    "formatted": "Jan 12, 2025, 10:13:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736675694",
+    "formatted": "Jan 12, 2025, 9:54:54 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456806,
+    "longitude": 72.09787779999999,
+    "altitude": 34.32241404751365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456806,
+    "longitude": 72.09787779999999,
+    "altitude": 34.32241404751365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOwNtcwnjMEUnyywux23jQ2Ebx_2VzdmMWIpzIx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

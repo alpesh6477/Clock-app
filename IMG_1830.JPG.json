@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1830.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1735884708",
+    "formatted": "Jan 3, 2025, 6:11:48 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735882995",
+    "formatted": "Jan 3, 2025, 5:43:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3299806,
+    "longitude": 70.7954333,
+    "altitude": 119.65357839042049,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3299806,
+    "longitude": 70.7954333,
+    "altitude": 119.65357839042049,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOoNHc9ccuAv-0n1eptuOsstvSLDE_vcgX8eqUP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

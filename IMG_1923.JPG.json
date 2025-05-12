@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1923.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736574227",
+    "formatted": "Jan 11, 2025, 5:43:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736573789",
+    "formatted": "Jan 11, 2025, 5:36:29 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7457028,
+    "longitude": 72.0977028,
+    "altitude": 35.989314664701546,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7457028,
+    "longitude": 72.0977028,
+    "altitude": 35.989314664701546,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNJrbwuYKVzrtcQn6t0lTOcAxygs0sRTNV9fYZ7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

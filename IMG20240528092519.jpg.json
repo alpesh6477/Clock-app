@@ -1,0 +1,39 @@
+{
+  "title": "IMG20240528092519.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1716868837",
+    "formatted": "May 28, 2024, 4:00:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1716868519",
+    "formatted": "May 28, 2024, 3:55:19 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Viha"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNoUjdiILvlranUxmAwzQA_SKRSvzEf0CidYvDf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

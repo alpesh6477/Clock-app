@@ -1,0 +1,38 @@
+{
+  "title": "AdobePhotoshopExpress 2020-11-16 09:53:37.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1732547484",
+    "formatted": "Nov 25, 2024, 3:11:24 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732546691",
+    "formatted": "Nov 25, 2024, 2:58:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "DAD"
+  }, {
+    "name": "Mummy"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipM7zzWpt4cumLjsGS4oezB2FdjWv_gMIjhPjti7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

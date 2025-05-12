@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0916.PNG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734929969",
+    "formatted": "Dec 23, 2024, 4:59:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734929651",
+    "formatted": "Dec 23, 2024, 4:54:11 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNPDLAW0FCtCqIXzZc1--uUWD-SR2TSZTJARV2K",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

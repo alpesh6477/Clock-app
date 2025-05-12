@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0701.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733995431",
+    "formatted": "Dec 12, 2024, 9:23:51 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733928807",
+    "formatted": "Dec 11, 2024, 2:53:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.745675,
+    "longitude": 72.0975583,
+    "altitude": 24.154262543168677,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.745675,
+    "longitude": 72.0975583,
+    "altitude": 24.154262543168677,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }, {
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNTx2WYZOwwqowtyzZwbLG-_GyNoxB52-qpRVsQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

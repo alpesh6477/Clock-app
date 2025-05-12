@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20241121-WA0015.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1732249024",
+    "formatted": "Nov 22, 2024, 4:17:04 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732157253",
+    "formatted": "Nov 21, 2024, 2:47:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNT5THGuybNOFDvCKlFEGhr9sUlxixBhnFaWoW0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Audiobooks"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

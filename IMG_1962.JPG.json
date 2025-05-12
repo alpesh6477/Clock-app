@@ -1,0 +1,38 @@
+{
+  "title": "IMG_1962.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736681955",
+    "formatted": "Jan 12, 2025, 11:39:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736681595",
+    "formatted": "Jan 12, 2025, 11:33:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459083,
+    "longitude": 72.09768609999999,
+    "altitude": 38.57506908197728,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459083,
+    "longitude": 72.09768609999999,
+    "altitude": 38.57506908197728,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }, {
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPhHj7VmykF_7G9WobcaE0p8o-Pf6Ym38tpk-Ou",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

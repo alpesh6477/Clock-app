@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1987.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742470",
+    "formatted": "Jan 13, 2025, 4:27:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683378",
+    "formatted": "Jan 12, 2025, 12:02:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456861,
+    "longitude": 72.09767219999999,
+    "altitude": 34.8883580187928,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456861,
+    "longitude": 72.09767219999999,
+    "altitude": 34.8883580187928,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPpzcCvH3r1ZYt2GxTqHyUQlPE3dBzAM7eDrGHl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

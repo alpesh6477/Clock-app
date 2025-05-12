@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0964.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1735122542",
+    "formatted": "Dec 25, 2024, 10:29:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735122318",
+    "formatted": "Dec 25, 2024, 10:25:18 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.33,
+    "longitude": 70.7953,
+    "altitude": 119.75,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.33,
+    "longitude": 70.7953,
+    "altitude": 119.75,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOAtqKMPjYxCgpd4rKtJoxlxy8XXb_2Q31j1vAW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

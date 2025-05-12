@@ -1,0 +1,42 @@
+{
+  "title": "pixelcut-export (5).jpeg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1732257052",
+    "formatted": "Nov 22, 2024, 6:30:52 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732257035",
+    "formatted": "Nov 22, 2024, 6:30:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNN7OrOYYghRtnFjgM2fBNpDPvkkTQsLggD4XXf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.android.chrome"
+  }
+}

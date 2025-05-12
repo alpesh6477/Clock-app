@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0276.HEIC",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1733479509",
+    "formatted": "Dec 6, 2024, 10:05:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733475165",
+    "formatted": "Dec 6, 2024, 8:52:45 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.6096833,
+    "longitude": 72.10073059999999,
+    "altitude": 286.0391969407266,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.6096833,
+    "longitude": 72.10073059999999,
+    "altitude": 286.0391969407266,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOdRg8SIicHliBxqHcvykzyFew1x_jI2RlpJ7Dc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

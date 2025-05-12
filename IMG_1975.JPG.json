@@ -1,0 +1,38 @@
+{
+  "title": "IMG_1975.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742435",
+    "formatted": "Jan 13, 2025, 4:27:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683313",
+    "formatted": "Jan 12, 2025, 12:01:53 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456806,
+    "longitude": 72.097725,
+    "altitude": 35.81283185840708,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456806,
+    "longitude": 72.097725,
+    "altitude": 35.81283185840708,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }, {
+    "name": "Baa"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNCEd5u6K0pGE2gTUay6IHh1ywZatOCAmQj0oAm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

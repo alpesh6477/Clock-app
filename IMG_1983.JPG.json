@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1983.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742457",
+    "formatted": "Jan 13, 2025, 4:27:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683338",
+    "formatted": "Jan 12, 2025, 12:02:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456861,
+    "longitude": 72.0977083,
+    "altitude": 38.156154269106906,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456861,
+    "longitude": 72.0977083,
+    "altitude": 38.156154269106906,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMSIkC1y2oFM1A0nL-ygOQMiZz8HSpNUOhvGmT8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

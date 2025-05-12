@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1897.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736493439",
+    "formatted": "Jan 10, 2025, 7:17:19 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736439270",
+    "formatted": "Jan 9, 2025, 4:14:30 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703139,
+    "altitude": 33.784114475321445,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703139,
+    "altitude": 33.784114475321445,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOHQhZ6wLWoUZ6l-kHsU-RXZeNplo3AykyiUGif",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

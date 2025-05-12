@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0613.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733718546",
+    "formatted": "Dec 9, 2024, 4:29:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733670973",
+    "formatted": "Dec 8, 2024, 3:16:13 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.689500000000002,
+    "longitude": 72.0797,
+    "altitude": 50.43,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.689500000000002,
+    "longitude": 72.0797,
+    "altitude": 50.43,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPSziOznKN1bTdD9plmw359WHbB-vjnA2fn_dgJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

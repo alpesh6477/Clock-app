@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2181.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736952684",
+    "formatted": "Jan 15, 2025, 2:51:24 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942473",
+    "formatted": "Jan 15, 2025, 12:01:13 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7464694,
+    "longitude": 72.0782167,
+    "altitude": 27.23039800455482,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7464694,
+    "longitude": 72.0782167,
+    "altitude": 27.23039800455482,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOOf9ptD3gYJlL7ggklRRrIw3AMlR5VOGbwNag6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

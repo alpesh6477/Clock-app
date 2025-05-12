@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0450.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487392",
+    "formatted": "Dec 6, 2024, 12:16:32 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733487026",
+    "formatted": "Dec 6, 2024, 12:10:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPjCOzZwSGIAf30a89xb95Mt8IpR5IcmUJIqC0Z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

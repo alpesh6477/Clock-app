@@ -1,0 +1,39 @@
+{
+  "title": "ssnaps_975D1572E1C64A96DC9E086FDB8BC0E7.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1723219304",
+    "formatted": "Aug 9, 2024, 4:01:44 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1723219286",
+    "formatted": "Aug 9, 2024, 4:01:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMAzjAe69HFix2B4Sb27EYk7B1avDRwGvUKwfJa",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "FMSC"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.snapchat.android"
+  }
+}

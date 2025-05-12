@@ -1,0 +1,36 @@
+{
+  "title": "IMG_4943.heic",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1724813342",
+    "formatted": "Aug 28, 2024, 2:49:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724665775",
+    "formatted": "Aug 26, 2024, 9:49:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPexj_JZq233o1rGRT2pSsa7lvunjEdJMlSWO68",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

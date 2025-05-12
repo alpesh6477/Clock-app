@@ -1,0 +1,36 @@
+{
+  "title": "E9324C87-D405-47E3-9ACF-08D04FC1ED3D.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734866394",
+    "formatted": "Dec 22, 2024, 11:19:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734864917",
+    "formatted": "Dec 22, 2024, 10:55:17 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMvyikiEx0TM8MjLxmPoe9hq0W-9AElrtn6qBbE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

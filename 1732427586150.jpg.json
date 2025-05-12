@@ -1,0 +1,42 @@
+{
+  "title": "1732427586150.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1732427680",
+    "formatted": "Nov 24, 2024, 5:54:40 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732427589",
+    "formatted": "Nov 24, 2024, 5:53:09 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN11IK33O3RO_sbRAqv9QEqrzoar4WmNzaHFnI0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Remini"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.bigwinepot.nwdn.international"
+  }
+}

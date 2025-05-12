@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2107.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946802",
+    "formatted": "Jan 15, 2025, 1:13:22 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736941421",
+    "formatted": "Jan 15, 2025, 11:43:41 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746475,
+    "longitude": 72.07817779999999,
+    "altitude": 28.10757039285112,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746475,
+    "longitude": 72.07817779999999,
+    "altitude": 28.10757039285112,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "BhaBhi"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP8d-oI-gk-ekaPgYhqbQ9UQ21ziww7fMIWP85S",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

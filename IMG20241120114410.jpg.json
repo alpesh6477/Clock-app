@@ -1,0 +1,39 @@
+{
+  "title": "IMG20241120114410.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1732084583",
+    "formatted": "Nov 20, 2024, 6:36:23 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732083250",
+    "formatted": "Nov 20, 2024, 6:14:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.450342199999998,
+    "longitude": 69.0957489,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.450342199999998,
+    "longitude": 69.0957489,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOt311kZMYdaNi1dW0rmnaDSCF59yfWuU9K_byV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

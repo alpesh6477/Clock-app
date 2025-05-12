@@ -1,0 +1,39 @@
+{
+  "title": "IMG20240518151449.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1716025568",
+    "formatted": "May 18, 2024, 9:46:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1716025489",
+    "formatted": "May 18, 2024, 9:44:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "DADA"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNhLeutc_ZLMp9MYtgqdRuYP0kDOOh6ZIMrpHHV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

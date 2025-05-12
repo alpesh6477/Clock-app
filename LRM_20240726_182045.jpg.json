@@ -1,0 +1,42 @@
+{
+  "title": "LRM_20240726_182045.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1721998414",
+    "formatted": "Jul 26, 2024, 12:53:34 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1721998245",
+    "formatted": "Jul 26, 2024, 12:50:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3528843,
+    "longitude": 70.76721189999999,
+    "altitude": 84.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3528843,
+    "longitude": 70.76721189999999,
+    "altitude": 84.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN_rYwnWNhFknIK429v1QyV4wVvu-fC6n4sbr4I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.adobe.lrmobile"
+  }
+}

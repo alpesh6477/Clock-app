@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0478.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487402",
+    "formatted": "Dec 6, 2024, 12:16:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733487027",
+    "formatted": "Dec 6, 2024, 12:10:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMFYMuBK6Jfb5NCMcxGk7kifEP9Mox_59iH_B-T",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

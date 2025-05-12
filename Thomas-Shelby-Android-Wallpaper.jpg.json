@@ -1,0 +1,36 @@
+{
+  "title": "Thomas-Shelby-Android-Wallpaper.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1719060727",
+    "formatted": "Jun 22, 2024, 12:52:07 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1719060710",
+    "formatted": "Jun 22, 2024, 12:51:50 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNreGj5TK0CRBgb55QE8GT9v_hLOwQCjlo6CqHz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

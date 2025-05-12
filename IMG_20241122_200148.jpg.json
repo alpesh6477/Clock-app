@@ -1,0 +1,42 @@
+{
+  "title": "IMG_20241122_200148.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1732285933",
+    "formatted": "Nov 22, 2024, 2:32:13 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732285908",
+    "formatted": "Nov 22, 2024, 2:31:48 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPFn45Gq6jbAbXEP8cUkBTfqkPCw-XkB2MMdxzF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.coloros.gallery3d"
+  }
+}

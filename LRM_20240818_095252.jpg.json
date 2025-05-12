@@ -1,0 +1,42 @@
+{
+  "title": "LRM_20240818_095252.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1724084911",
+    "formatted": "Aug 19, 2024, 4:28:31 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1723954972",
+    "formatted": "Aug 18, 2024, 4:22:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7457504,
+    "longitude": 72.0977554,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7457504,
+    "longitude": 72.0977554,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNTy5okS8kihgAC9q81C-X4o7ZZV67YHX8b3cvv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.adobe.lrmobile"
+  }
+}

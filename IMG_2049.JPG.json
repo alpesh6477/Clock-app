@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2049.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736862027",
+    "formatted": "Jan 14, 2025, 1:40:27 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736839394",
+    "formatted": "Jan 14, 2025, 7:23:14 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459111,
+    "longitude": 72.097725,
+    "altitude": 35.733150470219435,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459111,
+    "longitude": 72.097725,
+    "altitude": 35.733150470219435,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMRo1hPmmUqx3MBaD6rwjkoU_VRV5zkPNWesoV_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

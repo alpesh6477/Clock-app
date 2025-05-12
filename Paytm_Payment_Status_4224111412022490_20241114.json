@@ -1,0 +1,39 @@
+{
+  "title": "Paytm_Payment_Status_4224111412022490_20241114_120330.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1731566027",
+    "formatted": "Nov 14, 2024, 6:33:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1731566010",
+    "formatted": "Nov 14, 2024, 6:33:30 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP_xe6XO9lxIPKTzPVsTkGD0C8l3ih1y-tMs7os",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Pictures"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "net.one97.paytm"
+  }
+}

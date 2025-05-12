@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0482.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487405",
+    "formatted": "Dec 6, 2024, 12:16:45 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733487027",
+    "formatted": "Dec 6, 2024, 12:10:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMIUzHtxdETl9Grvh5X1XJhlMhAvoDG0SyjJfvB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

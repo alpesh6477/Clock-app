@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0503.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487405",
+    "formatted": "Dec 6, 2024, 12:16:45 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733487094",
+    "formatted": "Dec 6, 2024, 12:11:34 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOJS_lzylZbJ_Jx5DhDqbOBZmZ7XN5nrpp-PR4V",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2176.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736952696",
+    "formatted": "Jan 15, 2025, 2:51:36 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942439",
+    "formatted": "Jan 15, 2025, 12:00:39 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782083,
+    "altitude": 27.934617334009122,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782083,
+    "altitude": 27.934617334009122,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNPtDpY95jmOF2yPD0wlWbQVLXZRCb_Tx8x-YcJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

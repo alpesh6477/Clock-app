@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0575.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733718560",
+    "formatted": "Dec 9, 2024, 4:29:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733580558",
+    "formatted": "Dec 7, 2024, 2:09:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7457,
+    "longitude": 72.0977,
+    "altitude": 33.3,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7457,
+    "longitude": 72.0977,
+    "altitude": 33.3,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMCPfZPO_13HNaYIERNtN-VCr_2ztN62_d4f9hW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "1000220218.png",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1728054867",
+    "formatted": "Oct 4, 2024, 3:14:27 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728054843",
+    "formatted": "Oct 4, 2024, 3:14:03 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMmVoKlOtAZW99NWHgQSxkh8A4kZ_6aaGmGwZml",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.android.chrome"
+  }
+}

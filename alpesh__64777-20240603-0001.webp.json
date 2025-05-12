@@ -1,0 +1,39 @@
+{
+  "title": "alpesh__64777-20240603-0001.webp",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1720507434",
+    "formatted": "Jul 9, 2024, 6:43:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1717432752",
+    "formatted": "Jun 3, 2024, 4:39:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipM69hl0-52VBL2ImDAxD8GDKgndb38yruZeqwgd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "alpesh__64777"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

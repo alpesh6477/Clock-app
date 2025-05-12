@@ -1,0 +1,33 @@
+{
+  "title": "IMG_7377.JPG",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1733392919",
+    "formatted": "Dec 5, 2024, 10:01:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1731228346",
+    "formatted": "Nov 10, 2024, 8:45:46 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7463639,
+    "longitude": 72.0958333,
+    "altitude": 24.628108961705486,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7463639,
+    "longitude": 72.0958333,
+    "altitude": 24.628108961705486,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPqnDi1DZTeOLPyklW_qAoLMY0AO5n2pE0KN-jQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

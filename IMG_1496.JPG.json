@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1496.JPG",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1721567157",
+    "formatted": "Jul 21, 2024, 1:05:57 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1721553982",
+    "formatted": "Jul 21, 2024, 9:26:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.8712722,
+    "longitude": 71.7514417,
+    "altitude": 40.25893835275371,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.8712722,
+    "longitude": 71.7514417,
+    "altitude": 40.25893835275371,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP1NaM-8a8ufiKzisnhK9EQW0LkFZ1SaftpO4Zt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

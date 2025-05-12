@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20240619_115911.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1718778603",
+    "formatted": "Jun 19, 2024, 6:30:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1718778479",
+    "formatted": "Jun 19, 2024, 6:27:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipMYWElIusWw-4afsx3MnQVa3LEhsMfkCN59g3V6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

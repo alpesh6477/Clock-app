@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1864.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736225242",
+    "formatted": "Jan 7, 2025, 4:47:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736222322",
+    "formatted": "Jan 7, 2025, 3:58:42 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO17stupl_RIRt3P0StsEpG3plJVvgEql1KtJ_7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

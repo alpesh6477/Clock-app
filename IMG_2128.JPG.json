@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2128.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946880",
+    "formatted": "Jan 15, 2025, 1:14:40 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736941942",
+    "formatted": "Jan 15, 2025, 11:52:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0781944,
+    "altitude": 28.260764392839864,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0781944,
+    "altitude": 28.260764392839864,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Baa"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOqqeAK0M2SJ9ppTcf_MdwmpsRfRWRaKQ2mCnay",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

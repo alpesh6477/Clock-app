@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1837.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1735917520",
+    "formatted": "Jan 3, 2025, 3:18:40 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735899330",
+    "formatted": "Jan 3, 2025, 10:15:30 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.330099999999998,
+    "longitude": 70.7954,
+    "altitude": 121.22,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.330099999999998,
+    "longitude": 70.7954,
+    "altitude": 121.22,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMPLMsL9Z2dCluoAHcJTjA3ExZdv7uGB1Ssp7c6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

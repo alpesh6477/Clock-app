@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0560.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733568689",
+    "formatted": "Dec 7, 2024, 10:51:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733518827",
+    "formatted": "Dec 6, 2024, 9:00:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.752963899999997,
+    "longitude": 72.0921556,
+    "altitude": 23.28377914951989,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.752963899999997,
+    "longitude": 72.0921556,
+    "altitude": 23.28377914951989,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipONhzPXTrYLP1c5WDztA6OafkFyaInqmeqyRRy0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

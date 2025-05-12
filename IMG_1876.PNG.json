@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1876.PNG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736405310",
+    "formatted": "Jan 9, 2025, 6:48:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736403740",
+    "formatted": "Jan 9, 2025, 6:22:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNJPlLJ_f6A_Fh-lRWGflwcZKBHiydmk94Ng3Gc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

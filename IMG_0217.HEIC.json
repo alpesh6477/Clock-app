@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0217.HEIC",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1733399299",
+    "formatted": "Dec 5, 2024, 11:48:19 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733397503",
+    "formatted": "Dec 5, 2024, 11:18:23 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.745811099999997,
+    "longitude": 72.0977389,
+    "altitude": 29.24970588235294,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.745811099999997,
+    "longitude": 72.0977389,
+    "altitude": 29.24970588235294,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNIQb0YO22AEyIwz7ftifFra78c_ZAicOXZlZCX",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

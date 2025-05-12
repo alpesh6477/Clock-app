@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1846.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1735977007",
+    "formatted": "Jan 4, 2025, 7:50:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735968592",
+    "formatted": "Jan 4, 2025, 5:29:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3301028,
+    "longitude": 70.7954639,
+    "altitude": 121.07787993510006,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3301028,
+    "longitude": 70.7954639,
+    "altitude": 121.07787993510006,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNgoAqMZ_CgYwEHqwGgk_Yu21Lkon7a00ZCp2t-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

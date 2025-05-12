@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0648.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733892625",
+    "formatted": "Dec 11, 2024, 4:50:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733757049",
+    "formatted": "Dec 9, 2024, 3:10:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7455778,
+    "longitude": 72.0976556,
+    "altitude": 34.57531885556705,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7455778,
+    "longitude": 72.0976556,
+    "altitude": 34.57531885556705,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN7x35rE60p2-K7AfRi8Bod8rxOCGSk6iL_zpQT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

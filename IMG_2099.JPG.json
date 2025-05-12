@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2099.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946788",
+    "formatted": "Jan 15, 2025, 1:13:08 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736938717",
+    "formatted": "Jan 15, 2025, 10:58:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7464972,
+    "longitude": 72.078125,
+    "altitude": 27.369869233563385,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7464972,
+    "longitude": 72.078125,
+    "altitude": 27.369869233563385,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMCLsw0bF-XsQJlbqgMcyoDPG-CPFDKn0KEI6zj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

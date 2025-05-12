@@ -1,0 +1,39 @@
+{
+  "title": "IMG-20241120-WA0162.jpeg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1732090094",
+    "formatted": "Nov 20, 2024, 8:08:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732090034",
+    "formatted": "Nov 20, 2024, 8:07:14 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP85dIep9g3yrXl8jIxwivPyu83CL7KUXunLVd7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.whatsapp"
+  }
+}

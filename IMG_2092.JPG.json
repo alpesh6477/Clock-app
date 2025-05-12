@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2092.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946777",
+    "formatted": "Jan 15, 2025, 1:12:57 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736938540",
+    "formatted": "Jan 15, 2025, 10:55:40 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7465056,
+    "longitude": 72.0781167,
+    "altitude": 27.47439157282964,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7465056,
+    "longitude": 72.0781167,
+    "altitude": 27.47439157282964,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Bhai "
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMxPFLMs0TCByDtKhmyoovxExsH5NasVk0TGnDJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

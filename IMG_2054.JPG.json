@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2054.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736843793",
+    "formatted": "Jan 14, 2025, 8:36:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736839407",
+    "formatted": "Jan 14, 2025, 7:23:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459056,
+    "longitude": 72.09771669999999,
+    "altitude": 34.80184516646611,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459056,
+    "longitude": 72.09771669999999,
+    "altitude": 34.80184516646611,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMZYNBuOhFz6yIBsnZaxMZyizwJMNmG-rfY0Jzp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0661.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733892620",
+    "formatted": "Dec 11, 2024, 4:50:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733757422",
+    "formatted": "Dec 9, 2024, 3:17:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456194,
+    "longitude": 72.09765,
+    "altitude": 32.81380846325167,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456194,
+    "longitude": 72.09765,
+    "altitude": 32.81380846325167,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }, {
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMAzVjrpRv6XhVz0SsciI1-8ltvU0gHRl6qdIx1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

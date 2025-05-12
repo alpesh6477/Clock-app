@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20241011_113946_008.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1728703908",
+    "formatted": "Oct 12, 2024, 3:31:48 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728626987",
+    "formatted": "Oct 11, 2024, 6:09:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7372222,
+    "longitude": 72.16333329999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7372222,
+    "longitude": 72.16333329999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMqAuP4k_IyjGtomf-AU-PpGj9zkiNHrdbOh8Ik",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Instagram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.instagram.android"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2085.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946767",
+    "formatted": "Jan 15, 2025, 1:12:47 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736938348",
+    "formatted": "Jan 15, 2025, 10:52:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.07817779999999,
+    "altitude": 27.443337129840547,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.07817779999999,
+    "altitude": 27.443337129840547,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMqWPqxzSJ8O0L_5VIG-60scwO32enHzR-5IlRd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

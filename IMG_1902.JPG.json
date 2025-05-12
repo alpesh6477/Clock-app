@@ -1,0 +1,40 @@
+{
+  "title": "IMG_1902.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736493852",
+    "formatted": "Jan 10, 2025, 7:24:12 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736439615",
+    "formatted": "Jan 9, 2025, 4:20:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703,
+    "altitude": 33.71,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.740399999999998,
+    "longitude": 72.0703,
+    "altitude": 33.71,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }, {
+    "name": "DAD"
+  }, {
+    "name": "Mummy"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMSDFo1OV2quvW-y7O7RMEnfH7TuQZz1CNW0aap",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

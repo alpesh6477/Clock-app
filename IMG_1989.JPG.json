@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1989.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742486",
+    "formatted": "Jan 13, 2025, 4:28:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683720",
+    "formatted": "Jan 12, 2025, 12:08:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.745894399999997,
+    "longitude": 72.0977556,
+    "altitude": 32.73067854335866,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.745894399999997,
+    "longitude": 72.0977556,
+    "altitude": 32.73067854335866,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNkL6DiEFY5LHhgd1m9mkCnB8hx8dryn3w0NrMG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

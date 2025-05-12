@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0990.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1735302382",
+    "formatted": "Dec 27, 2024, 12:26:22 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735297878",
+    "formatted": "Dec 27, 2024, 11:11:18 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3892556,
+    "longitude": 70.7976,
+    "altitude": 112.4849510910459,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3892556,
+    "longitude": 70.7976,
+    "altitude": 112.4849510910459,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOTwEjRsmbQx6OL9nxAfjeQ9fOW2SOczYiN9Gwb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

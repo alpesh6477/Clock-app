@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0766.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734329314",
+    "formatted": "Dec 16, 2024, 6:08:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734328807",
+    "formatted": "Dec 16, 2024, 6:00:07 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.2456806,
+    "longitude": 70.7081389,
+    "altitude": 133.84890333062552,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.2456806,
+    "longitude": 70.7081389,
+    "altitude": 133.84890333062552,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPrQEIMomwTgQmN6LdQ2ywqP7wALitsxGsF7CHn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

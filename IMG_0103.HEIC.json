@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0103.HEIC",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1733310493",
+    "formatted": "Dec 4, 2024, 11:08:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733287018",
+    "formatted": "Dec 4, 2024, 4:36:58 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.774386099999997,
+    "longitude": 72.1191778,
+    "altitude": 25.580667473629603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.774386099999997,
+    "longitude": 72.1191778,
+    "altitude": 25.580667473629603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Bhai "
+  }, {
+    "name": "BhaBhi"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPGSSeRhv3rqCErVPg2Dn-tHCqP0FkCCZdEyfWr",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

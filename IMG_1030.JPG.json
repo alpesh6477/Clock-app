@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1030.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1735395390",
+    "formatted": "Dec 28, 2024, 2:16:30 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735392770",
+    "formatted": "Dec 28, 2024, 1:32:50 PM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3201972,
+    "longitude": 70.7341917,
+    "altitude": 120.82339043118724,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3201972,
+    "longitude": 70.7341917,
+    "altitude": 120.82339043118724,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOI0qCkoJn2HvRlBx53K_WQARf0D3HzLgl_njM6",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

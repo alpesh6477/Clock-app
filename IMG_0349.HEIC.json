@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0349.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733486372",
+    "formatted": "Dec 6, 2024, 11:59:32 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733476339",
+    "formatted": "Dec 6, 2024, 9:12:19 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.609663899999997,
+    "longitude": 72.1007528,
+    "altitude": 288.8117994100295,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.609663899999997,
+    "longitude": 72.1007528,
+    "altitude": 288.8117994100295,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNG1mlKxJBUNiG30vjO_njkMmCeJAAVkhuGaY_o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

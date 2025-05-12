@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0594.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733718548",
+    "formatted": "Dec 9, 2024, 4:29:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733650837",
+    "formatted": "Dec 8, 2024, 9:40:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.636125,
+    "longitude": 72.2520222,
+    "altitude": 30.111018780122986,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.636125,
+    "longitude": 72.2520222,
+    "altitude": 30.111018780122986,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }, {
+    "name": "Mummy"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOzAQHhyVnYt7zfpAfqbklK3RgcWJhL9hk7TzcI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "IMG_1495.JPG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1721567166",
+    "formatted": "Jul 21, 2024, 1:06:06 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1721553960",
+    "formatted": "Jul 21, 2024, 9:26:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.871275,
+    "longitude": 71.75143609999999,
+    "altitude": 40.63104708664803,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.871275,
+    "longitude": 71.75143609999999,
+    "altitude": 40.63104708664803,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }, {
+    "name": "Viha"
+  }, {
+    "name": "Keshu"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN-1AtEojUKKctNNXX4VkEEkFfjBFqyFr0EGlUC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

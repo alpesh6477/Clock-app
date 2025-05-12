@@ -1,0 +1,42 @@
+{
+  "title": "Screenshot_2024-11-19-11-15-42-40_99c04817c0de5652397fc8b56c3b3817.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1731995147",
+    "formatted": "Nov 19, 2024, 5:45:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1731995142",
+    "formatted": "Nov 19, 2024, 5:45:42 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMVRbyRUwKjLACIXuu9k1M89ViSubmxpbb_WlHd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.screenshot"
+  }
+}

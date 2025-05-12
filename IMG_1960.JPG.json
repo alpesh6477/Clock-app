@@ -1,0 +1,38 @@
+{
+  "title": "IMG_1960.JPG",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736681957",
+    "formatted": "Jan 12, 2025, 11:39:17 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736681583",
+    "formatted": "Jan 12, 2025, 11:33:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459083,
+    "longitude": 72.09768609999999,
+    "altitude": 38.72939649578196,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459083,
+    "longitude": 72.09768609999999,
+    "altitude": 38.72939649578196,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }, {
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOl10-dEqc7zVtTXgVIT4RbHyx_CpONvMlA7yxk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

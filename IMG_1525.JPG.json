@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1525.JPG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1721567021",
+    "formatted": "Jul 21, 2024, 1:03:41 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1721567017",
+    "formatted": "Jul 21, 2024, 1:03:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMDFcExz2BD85cHShuV43vz6LWJNcylkZScXeIk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

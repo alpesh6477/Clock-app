@@ -1,0 +1,38 @@
+{
+  "title": "IMG_0258.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733459747",
+    "formatted": "Dec 6, 2024, 4:35:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733459367",
+    "formatted": "Dec 6, 2024, 4:29:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7457167,
+    "longitude": 72.09776939999999,
+    "altitude": 34.588648016551225,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7457167,
+    "longitude": 72.09776939999999,
+    "altitude": 34.588648016551225,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }, {
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipO0-Uk1HGwBXGA8C31_TZwqQhgQgWYboeaWzbgY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

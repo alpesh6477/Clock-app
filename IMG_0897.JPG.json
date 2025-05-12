@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0897.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1734866395",
+    "formatted": "Dec 22, 2024, 11:19:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1637299111",
+    "formatted": "Nov 19, 2021, 5:18:31 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO5IVwf90DJYGmb-qLzFsG4gcnfSRaWHacp_4zi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

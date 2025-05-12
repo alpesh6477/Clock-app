@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0702.HEIC",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1733995434",
+    "formatted": "Dec 12, 2024, 9:23:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733929712",
+    "formatted": "Dec 11, 2024, 3:08:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456083,
+    "longitude": 72.0974111,
+    "altitude": 34.35604479028279,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456083,
+    "longitude": 72.0974111,
+    "altitude": 34.35604479028279,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNrFIUDZJEojwsePi3l87AVYpNjVI87giAqc0CS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

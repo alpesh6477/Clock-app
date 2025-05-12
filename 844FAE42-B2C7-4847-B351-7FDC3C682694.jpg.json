@@ -1,0 +1,33 @@
+{
+  "title": "844FAE42-B2C7-4847-B351-7FDC3C682694.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1736590644",
+    "formatted": "Jan 11, 2025, 10:17:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736590562",
+    "formatted": "Jan 11, 2025, 10:16:02 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOb_pLz61a1L7jnxqUHFdr6lJhDzIP7M8-nlkH5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

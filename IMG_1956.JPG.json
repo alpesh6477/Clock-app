@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1956.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736681955",
+    "formatted": "Jan 12, 2025, 11:39:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736681396",
+    "formatted": "Jan 12, 2025, 11:29:56 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459444,
+    "longitude": 72.0976556,
+    "altitude": 32.90475047984645,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459444,
+    "longitude": 72.0976556,
+    "altitude": 32.90475047984645,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPOEa4bTi-3CZ-akXcFFZMxRid_TZe5TkGeYs-O",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

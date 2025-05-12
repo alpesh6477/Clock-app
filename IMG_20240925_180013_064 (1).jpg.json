@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20240925_180013_064 (1).jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1731834707",
+    "formatted": "Nov 17, 2024, 9:11:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1727267565",
+    "formatted": "Sep 25, 2024, 12:32:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNPeV3QPM4WD5quqfsLvRG6Lg_0KYRrVlWnUbWo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Compress Image"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

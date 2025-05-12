@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1505.JPG",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1721567101",
+    "formatted": "Jul 21, 2024, 1:05:01 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1721554162",
+    "formatted": "Jul 21, 2024, 9:29:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.871013899999998,
+    "longitude": 71.75154169999999,
+    "altitude": 39.367429730512896,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.871013899999998,
+    "longitude": 71.75154169999999,
+    "altitude": 39.367429730512896,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNYARqARN8cXP7PxkorHaTO5MFYvfOlHh_6FGWg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

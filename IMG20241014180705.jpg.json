@@ -1,0 +1,42 @@
+{
+  "title": "IMG20241014180705.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1728909455",
+    "formatted": "Oct 14, 2024, 12:37:35 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1728909425",
+    "formatted": "Oct 14, 2024, 12:37:05 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7492084,
+    "longitude": 72.1003265,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7492084,
+    "longitude": 72.1003265,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Mummy"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN_ng-qJ7n7BkHq61HUKj32DZVkCLvG7_hl34-3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

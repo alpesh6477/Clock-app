@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2002.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742530",
+    "formatted": "Jan 13, 2025, 4:28:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736684886",
+    "formatted": "Jan 12, 2025, 12:28:06 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459167,
+    "longitude": 72.0977028,
+    "altitude": 32.30364608653379,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459167,
+    "longitude": 72.0977028,
+    "altitude": 32.30364608653379,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPnZMEcieWlQlAplTcFQiNsibsEzlLIHrG5yC7M",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

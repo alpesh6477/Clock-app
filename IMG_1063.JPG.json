@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1063.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1735490520",
+    "formatted": "Dec 29, 2024, 4:42:00 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1735470868",
+    "formatted": "Dec 29, 2024, 11:14:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3299,
+    "longitude": 70.7952,
+    "altitude": 118.25,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3299,
+    "longitude": 70.7952,
+    "altitude": 118.25,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPvXO2gimnL2UL5jPM5hQLQrULcDIch_xLFYmXV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

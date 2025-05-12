@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0201~2.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1733395813",
+    "formatted": "Dec 5, 2024, 10:50:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733393159",
+    "formatted": "Dec 5, 2024, 10:05:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNWnFW24aW9nSnx8glMkbSxRcezpVpb_8XBAKZU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.google.android.apps.photos"
+  }
+}

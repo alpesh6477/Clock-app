@@ -1,0 +1,40 @@
+{
+  "title": "IMG_2135.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946919",
+    "formatted": "Jan 15, 2025, 1:15:19 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942079",
+    "formatted": "Jan 15, 2025, 11:54:39 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782,
+    "altitude": 27.833732225820075,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.746461099999998,
+    "longitude": 72.0782,
+    "altitude": 27.833732225820075,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Bhai "
+  }, {
+    "name": "BhaBhi"
+  }, {
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPFpHBFcm85g6cqtdzFkSBhE2hVcYRky6VE5sjD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

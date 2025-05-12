@@ -1,0 +1,36 @@
+{
+  "title": "Screenshot_2024-06-05-09-19-56-21_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1717559484",
+    "formatted": "Jun 5, 2024, 3:51:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1717559396",
+    "formatted": "Jun 5, 2024, 3:49:56 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNET08_1yPMnTefi-VbW0TANNGPcB2ds5mSP8wz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

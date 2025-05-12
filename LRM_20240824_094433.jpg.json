@@ -1,0 +1,42 @@
+{
+  "title": "LRM_20240824_094433.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1724472954",
+    "formatted": "Aug 24, 2024, 4:15:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724472874",
+    "formatted": "Aug 24, 2024, 4:14:34 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.6765079,
+    "longitude": 72.1685791,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.6765079,
+    "longitude": 72.1685791,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "DADA"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPdX9mPBjgoxLoELatkHDfK4NDPOUHUoErNKW42",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.adobe.lrmobile"
+  }
+}

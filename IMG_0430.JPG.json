@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0430.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487278",
+    "formatted": "Dec 6, 2024, 12:14:38 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733486997",
+    "formatted": "Dec 6, 2024, 12:09:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOegIWK6vLFc4vZ6a1QStbNRXbiPC3rSl6Ma4Tf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "video_1_3e2c1602bf2d4fadb205a62b7c8079f6.mp4",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1736656348",
+    "formatted": "Jan 12, 2025, 4:32:28 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736444801",
+    "formatted": "Jan 9, 2025, 5:46:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNguM4lLYHwC48HuQ1sUbO5YIF-397SljQsV7HA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

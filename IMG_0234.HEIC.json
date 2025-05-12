@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0234.HEIC",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1733400971",
+    "formatted": "Dec 5, 2024, 12:16:11 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733400665",
+    "formatted": "Dec 5, 2024, 12:11:05 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459,
+    "longitude": 72.0977,
+    "altitude": 30.32,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459,
+    "longitude": 72.0977,
+    "altitude": 30.32,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMDaR9j4VfPUHIt7HbnDgX9qHcHspglU54vFl00",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

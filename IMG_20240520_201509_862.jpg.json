@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20240520_201509_862.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1716216328",
+    "formatted": "May 20, 2024, 2:45:28 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1716216309",
+    "formatted": "May 20, 2024, 2:45:09 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN_cfbv7OVSxsjK90FGR_HTg3Jllt2WUDZwG8RC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

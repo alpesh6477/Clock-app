@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0379.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487212",
+    "formatted": "Dec 6, 2024, 12:13:32 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733486984",
+    "formatted": "Dec 6, 2024, 12:09:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNE8-9VMAmkf0HFG5ciA1_VfHLwd-O5fNafCGeF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

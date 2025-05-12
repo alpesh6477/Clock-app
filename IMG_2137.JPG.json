@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2137.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736946930",
+    "formatted": "Jan 15, 2025, 1:15:30 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736942092",
+    "formatted": "Jan 15, 2025, 11:54:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7464694,
+    "longitude": 72.0782,
+    "altitude": 27.911719984496585,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7464694,
+    "longitude": 72.0782,
+    "altitude": 27.911719984496585,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Banku"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMKAx_68-G1QQdda-Uw3AT7o4VRJtICwwAawwSl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

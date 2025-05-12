@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1921.JPG",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1736574228",
+    "formatted": "Jan 11, 2025, 5:43:48 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736573788",
+    "formatted": "Jan 11, 2025, 5:36:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456972,
+    "longitude": 72.0976944,
+    "altitude": 35.84569892473118,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456972,
+    "longitude": 72.0976944,
+    "altitude": 35.84569892473118,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMomUiGuZ_b1K5-LfdobAnO9iKm21Ml6o2wszTE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

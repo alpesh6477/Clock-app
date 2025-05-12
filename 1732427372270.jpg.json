@@ -1,0 +1,42 @@
+{
+  "title": "1732427372270.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1732427391",
+    "formatted": "Nov 24, 2024, 5:49:51 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732427375",
+    "formatted": "Nov 24, 2024, 5:49:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNLxeMt6E5QXseE-a4yJmR-q09yCLAsMgVZWF03",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Remini"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.bigwinepot.nwdn.international"
+  }
+}

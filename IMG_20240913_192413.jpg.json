@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20240913_192413.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1726308449",
+    "formatted": "Sep 14, 2024, 10:07:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1726235655",
+    "formatted": "Sep 13, 2024, 1:54:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMdld7mJS0HIXyeNcnSgffnLY1cHpqF7S1KoYbq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

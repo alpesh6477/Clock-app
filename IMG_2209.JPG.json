@@ -1,0 +1,40 @@
+{
+  "title": "IMG_2209.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736952710",
+    "formatted": "Jan 15, 2025, 2:51:50 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736943972",
+    "formatted": "Jan 15, 2025, 12:26:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456528,
+    "longitude": 72.0977472,
+    "altitude": 33.57937511287701,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456528,
+    "longitude": 72.0977472,
+    "altitude": 33.57937511287701,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Mummy"
+  }, {
+    "name": "BhaBhi"
+  }, {
+    "name": "Baa"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPTRleexB6zcOd8MlZljIatKgZNCohF1ixUs7ce",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

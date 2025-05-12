@@ -1,0 +1,36 @@
+{
+  "title": "IMG_4952.heic",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1724813323",
+    "formatted": "Aug 28, 2024, 2:48:43 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724665863",
+    "formatted": "Aug 26, 2024, 9:51:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNhXjZMHCtHwfZWOfJiMYz6sTHYfxZvoUgFei_C",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

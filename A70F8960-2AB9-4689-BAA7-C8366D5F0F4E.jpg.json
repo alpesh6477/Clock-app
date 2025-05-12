@@ -1,0 +1,33 @@
+{
+  "title": "A70F8960-2AB9-4689-BAA7-C8366D5F0F4E.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1734245227",
+    "formatted": "Dec 15, 2024, 6:47:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734242184",
+    "formatted": "Dec 15, 2024, 5:56:24 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM9HftaX3MJhWqiGOV39sgQrLiePVNtwZJMF0K2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

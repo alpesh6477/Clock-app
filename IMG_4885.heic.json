@@ -1,0 +1,36 @@
+{
+  "title": "IMG_4885.heic",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1724813393",
+    "formatted": "Aug 28, 2024, 2:49:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724566137",
+    "formatted": "Aug 25, 2024, 6:08:57 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMPVXfH1c2admPU700CNmfSfjmu63GeXJcMxTUq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

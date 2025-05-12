@@ -1,0 +1,36 @@
+{
+  "title": "IMG_1992.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736743183",
+    "formatted": "Jan 13, 2025, 4:39:43 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736683725",
+    "formatted": "Jan 12, 2025, 12:08:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.745936099999998,
+    "longitude": 72.09768609999999,
+    "altitude": 32.65887069829603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.745936099999998,
+    "longitude": 72.09768609999999,
+    "altitude": 32.65887069829603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOpZ1f9uAzNFIxaF-qXxoMo0TrlZMwpN7qi_NIq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

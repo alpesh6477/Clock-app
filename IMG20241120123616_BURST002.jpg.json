@@ -1,0 +1,39 @@
+{
+  "title": "IMG20241120123616_BURST002.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1732087025",
+    "formatted": "Nov 20, 2024, 7:17:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1732086377",
+    "formatted": "Nov 20, 2024, 7:06:17 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.4708938,
+    "longitude": 69.14198300000001,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.4708938,
+    "longitude": 69.14198300000001,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPk1uqVn85JX0vEOSuX5MqpESrNYuA1oofznZPe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "appSource": {
+    "androidPackageName": "com.oplus.camera"
+  }
+}

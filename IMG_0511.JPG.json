@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0511.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1733487407",
+    "formatted": "Dec 6, 2024, 12:16:47 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1733487294",
+    "formatted": "Dec 6, 2024, 12:14:54 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOjJFelEcBVM0Y_xCe9suP3aWLgUBck_05ua1ZM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

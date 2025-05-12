@@ -1,0 +1,36 @@
+{
+  "title": "IMG_2005.JPG",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1736742546",
+    "formatted": "Jan 13, 2025, 4:29:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736684889",
+    "formatted": "Jan 12, 2025, 12:28:09 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7459194,
+    "longitude": 72.0976944,
+    "altitude": 32.100521059487626,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7459194,
+    "longitude": 72.0976944,
+    "altitude": 32.100521059487626,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dharuuu 🥰"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPIXoa3GT3-XmaDygye9OAj43r9XbXlVuJpHPTa",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

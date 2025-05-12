@@ -1,0 +1,34 @@
+{
+  "title": "IMG_2257.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1736953185",
+    "formatted": "Jan 15, 2025, 2:59:45 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736951838",
+    "formatted": "Jan 15, 2025, 2:37:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 21.7456056,
+    "longitude": 72.0978611,
+    "altitude": 37.32751046025105,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.7456056,
+    "longitude": 72.0978611,
+    "altitude": 37.32751046025105,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipMDF6Mv8fq8rpwF1h7HEYcFNqBJka7PbS9fue56",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

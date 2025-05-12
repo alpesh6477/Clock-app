@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0833.HEIC",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1734660723",
+    "formatted": "Dec 20, 2024, 2:12:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1734660444",
+    "formatted": "Dec 20, 2024, 2:07:24 AM UTC"
+  },
+  "geoData": {
+    "latitude": 22.3317139,
+    "longitude": 70.79734719999999,
+    "altitude": 114.53615910004018,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 22.3317139,
+    "longitude": 70.79734719999999,
+    "altitude": 114.53615910004018,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Me"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP2oK5qSPSCSTa2mhcUn1SKo6X2_zVt1tO6rMEx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
